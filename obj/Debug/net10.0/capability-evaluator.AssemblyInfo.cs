@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("capability-evaluator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+594c327ce08199898ab0a2034ede5ba46c6443bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("capability-evaluator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("capability-evaluator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

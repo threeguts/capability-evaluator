@@ -12,3 +12,4 @@ C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\refint\capa
 C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.pdb
 C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.genruntimeconfig.cache
 C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\ref\capability-evaluator.dll
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.sourcelink.json
