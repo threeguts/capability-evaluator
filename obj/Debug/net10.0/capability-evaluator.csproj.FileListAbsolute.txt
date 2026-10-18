@@ -1,0 +1,14 @@
+C:\Users\faran\Desktop\Thesis\capability-evaluator\bin\Debug\net10.0\capability-evaluator.exe
+C:\Users\faran\Desktop\Thesis\capability-evaluator\bin\Debug\net10.0\capability-evaluator.deps.json
+C:\Users\faran\Desktop\Thesis\capability-evaluator\bin\Debug\net10.0\capability-evaluator.runtimeconfig.json
+C:\Users\faran\Desktop\Thesis\capability-evaluator\bin\Debug\net10.0\capability-evaluator.dll
+C:\Users\faran\Desktop\Thesis\capability-evaluator\bin\Debug\net10.0\capability-evaluator.pdb
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.AssemblyInfoInputs.cache
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.AssemblyInfo.cs
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.csproj.CoreCompileInputs.cache
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.dll
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\refint\capability-evaluator.dll
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.pdb
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\capability-evaluator.genruntimeconfig.cache
+C:\Users\faran\Desktop\Thesis\capability-evaluator\obj\Debug\net10.0\ref\capability-evaluator.dll
