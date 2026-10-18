@@ -21,7 +21,8 @@ public sealed class DummyExperiment : IExperiment
             PropertyOutcome: PropertyOutcome.Inconclusive,
             EvidenceQuality: EvidenceQuality.Insufficient,
             Observation: "Dummy result generated successfully; no protected operation was attempted.",
-            Limitations: "Synthetic result only; provides no evidence about Chrome ABE or DBSC."
+            Limitations: "Synthetic result only; provides no evidence about Chrome ABE or DBSC.",
+            Timestamp: DateTimeOffset.Now
         );
 
         return Task.FromResult(result);

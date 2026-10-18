@@ -30,5 +30,6 @@ public sealed record ExperimentResult(
     PropertyOutcome PropertyOutcome,
     EvidenceQuality EvidenceQuality,
     string Observation,
-    string Limitations
+    string Limitations,
+    DateTimeOffset Timestamp
 );
